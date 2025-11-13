@@ -1,0 +1,5 @@
+html, body, #__next { height: 100%; }
+body { margin: 0; background: #111; color: #fff; }
+.canvas-container { position: fixed; inset: 0; }
+.ui { position: fixed; top: 12px; left: 12px; background: rgba(0,0,0,0.4); padding: 8px 12px; border-radius: 8px; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji; }
+.ui b { color: #6cf; }
